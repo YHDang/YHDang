@@ -1,6 +1,6 @@
 ### Hi！ 👋
 - 🌱 I’m currently working as a postdoctoral fellow at the School of Artificial Intelligence, **Beijing University of Posts and Telecommunications**.
-- 🤔 My research interests include **Deep Learning**, **Computer Vision**, **Human Pose Estimation**, **Embodied AI** and **Action Recongnition**.
+- 🤔 My research interests include **Deep Learning**, **Computer Vision**, **Human Pose Estimation**, **Action Recongnition**, and **Embodied AI**.
 - 📫 Email me @ dyh2018@bupt.edu.cn
 <picture>
   <source
