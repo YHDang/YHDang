@@ -16,6 +16,7 @@
 
 ### Papers
 #### Accepted
+- [**Neurocomputing 2024**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://arxiv.org/pdf/2306.11990.pdf)]
 - [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)]
 - [**TIP 2022**] Relation-Based Associative Joint Location for Human Pose Estimation in Videos [[paper](https://ieeexplore.ieee.org/document/9786543)]
 - [**TMM 2023**] Leveraging the Video-level Semantic Consistency of Event for Audio-visual Event Localization [[paper](https://arxiv.org/pdf/2210.05242.pdf)]
