@@ -16,6 +16,7 @@
 
 ### Papers
 #### Accepted
+- [**KBS 2024**] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124008979)]
 - [**TCSVT 2024**] SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)]
 - [**Neurocomputing 2024**] Physics-constrained attack against convolution-based human motion prediction [[paper](https://arxiv.org/pdf/2306.11990.pdf)]
 - [**PR 2024**] Kinematics Modeling Network for Video-based Human Pose Estimation [[paper](https://arxiv.org/pdf/2207.10971.pdf)]
@@ -28,6 +29,5 @@
 - [**IEEE SMC 2018**] Estimating Cement Compressive Strength from Microstructure Images Using Broad Learning System [[paper](https://ieeexplore.ieee.org/document/8616713/;jsessionid=8Ur2j09woIh9strzn11SyGeqjnU3C6c_1jQRmh148JHsonF-UX6X!271292192)]
 
 #### Under Review 
-- [-] DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation 
 - [-] Spatial-Temporal Decoupling Contrastive Learning for Skeleton-based Human Action Recognition  [[paper](https://arxiv.org/abs/2312.15144)]
 - [-] BiHRNet: A Binary high-resolution network for Human Pose Estimation [[paper](https://arxiv.org/pdf/2311.10296)]
